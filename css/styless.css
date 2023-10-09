@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100%;
+    padding: 2%;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 20% 1fr 20%;
+}
+
+.header{
+text-align: center;
+border: 1px solid black;
+}
+.main{
+    text-align: center;
+    border: 1px solid black
+}
+
+.footer{
+    text-align: center;
+    border: 1px solid black
+}
